@@ -2,6 +2,7 @@
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning about growing industries
 - 💞️ I’m looking to collaborate on projects based on my domain
+- ✨ Reach me through mail or linkedin
 
 
 <!---
