@@ -13,8 +13,8 @@ I love collaborating on innovative projects that push boundaries and expand know
 ---
 
 ## 📊 LeetCode Stats
-![](https://leetcard.jacoblin.cool/shreyavj_05?theme=unicorn)
-![](https://leetcard.jacoblin.cool/shreyavj_05?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/shreyavj_05?theme=dark,unicorn)
+
 
 
 ---
