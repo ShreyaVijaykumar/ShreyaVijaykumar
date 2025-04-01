@@ -1,14 +1,37 @@
-# 👋 Hi there, I'm Shreya Vijaykumar!
+# 👋 Hi, I'm Shreya Vijaykumar!
 
-I'm a passionate **AI/ML enthusiast** diving deep into the world of **Artificial Intelligence, Machine Learning**, and growing industries.
-I love collaborating on innovative projects that push boundaries and expand knowledge.
+🚀 **AI/ML Enthusiast | Ideathon Winner | Exploring AI for Healthcare, FinTech & Judiciary**  
 
----
+I am passionate about building **AI-driven solutions** that enhance **trust, efficiency, and decision-making**. My work spans **Machine Learning, Computer Vision, and AI for Social Good**, with a strong focus on **scalable real-world applications**.  
 
-## 👀 About Me
-- 🎓 **2nd-year CSE Undergraduate** exploring cutting-edge technologies.
-- 🌱 Currently learning about **emerging trends** in the tech industry.
-- 💡 Open to collaborations, as I like to travel and learn about **technologies** around the world.
+## 🔬 Key Projects  
+- **[Public Pulse: AI Trust Evaluation System](https://github.com/ShreyaVijaykumar/PublicPulse)** – AI model ensuring transparency and fairness in automated decisions.  
+- **AI for Governance & Security** – Researching AI accountability and fairness in high-impact systems.  
+- **Scalable AI Applications** –  ML models using **Python, TensorFlow, Flask/Django**.  
+
+## 🏆 Achievements  
+- **IEEE Ideathon Winner** – Recognized for AI-driven innovation.  
+- **International Exchange Delegate (Malaysia)** – Gained exposure to global tech ecosystems.  
+  
+
+## ⚡ Tech Stack  
+🔹 **Languages**: Python, Java, C++  
+🔹 **ML & AI**: TensorFlow, PyTorch, OpenCV, Scikit-Learn  
+🔹 **Databases**: MySQL, PostgreSQL, SQLite  
+🔹 **Frameworks**: Flask, Django    
+
+## 📈 GitHub Stats  
+![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
+
+## 🌱 Currently Exploring  
+- AI for **Healthcare, Judiciary, and FinTech**  
+- **Federated Learning** and **Ethical AI**  
+- **Big Tech Career Pathways & Open Source Contributions**  
+
+## 📫 Let's Connect  
+🔹 **LinkedIn**: [Shreya Vijaykumar](https://www.linkedin.com/in/shreya-vijaykumar-1b5855289)  
+🔹 **LeetCode**: [My Profile](https://leetcode.com/u/shreyavj_05/)  
 
 ---
 
@@ -23,6 +46,3 @@ I love collaborating on innovative projects that push boundaries and expand know
 
 ---
 
-## ✨ Let's Connect!
-- 📫 **Email**: [shreyavj.05@gmail.com](mailto:shreyavj.05@gmail.com)
-- 💼 **LinkedIn**: [Shreya Vijaykumar](https://www.linkedin.com/in/shreya-vijaykumar-1b5855289/)
