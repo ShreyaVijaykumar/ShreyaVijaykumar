@@ -5,7 +5,7 @@
 I am passionate about building **AI-driven solutions** that enhance **trust, efficiency, and decision-making**. My work spans **Machine Learning, Computer Vision, and AI for Social Good**, with a strong focus on **scalable real-world applications**.  
 
 ## 🔬 Key Projects  
-- **[Public Pulse: AI Trust Evaluation System](https://github.com/ShreyaVijaykumar/PublicPulse)** – AI model ensuring transparency and fairness in automated decisions.  
+- **[Public Pulse:](https://github.com/ShreyaVijaykumar/PublicPulse)** – AI model ensuring transparency and fairness in automated decisions.  
 - **AI for Governance & Security** – Researching AI accountability and fairness in high-impact systems.  
 - **Scalable AI Applications** –  ML models using **Python, TensorFlow, Flask/Django**.  
 
@@ -20,14 +20,12 @@ I am passionate about building **AI-driven solutions** that enhance **trust, eff
 🔹 **Databases**: MySQL, PostgreSQL, SQLite  
 🔹 **Frameworks**: Flask, Django    
 
-## 📈 GitHub Stats  
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
 
 ## 🌱 Currently Exploring  
 - AI for **Healthcare, Judiciary, and FinTech**  
 - **Federated Learning** and **Ethical AI**  
 - **Big Tech Career Pathways & Open Source Contributions**  
+
 
 ## 📫 Let's Connect  
 🔹 **LinkedIn**: [Shreya Vijaykumar](https://www.linkedin.com/in/shreya-vijaykumar-1b5855289)  
