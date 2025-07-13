@@ -38,9 +38,3 @@ I am passionate about building **AI-driven solutions** that enhance **trust, eff
 
 ---
 
-## 🌟 GitHub Stats
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaVijaykumar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaVijaykumar&layout=compact&theme=radical)
-
----
-
