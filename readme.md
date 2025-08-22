@@ -37,4 +37,7 @@ I am passionate about building **AI-driven solutions** that enhance **trust, eff
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shreyavj_05)
 
 ---
+## 🏆Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyaVijaykumar&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
