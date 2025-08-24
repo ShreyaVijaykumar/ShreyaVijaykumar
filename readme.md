@@ -1,6 +1,6 @@
 # 🌌 Hey, I’m Shreya Vijaykumar!  
 
-💡 **AI/ML | Ideathon Winner | Linux & System Enthusiast**  
+💡 **AI/ML | IEEE Ideathon Winner 2024 | Linux & System Enthusiast**  
 
 I’m all about **blending AI with real-world impact** — from **medical imaging and federated learning** to **AI-driven judiciary apps** and **system-level OS tuning**. Whether it’s **training CNNs for explainability**, working at **Linux kernels**, or exploring **federated architectures**, I love building solutions that are **scalable, ethical, and future-ready**.  
 
@@ -40,8 +40,6 @@ I’m all about **blending AI with real-world impact** — from **medical imagin
 📊 **LeetCode Stats**  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shreyavj_05)  
 
-🏆 **GitHub Trophies**  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyaVijaykumar&theme=tokyonight&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
