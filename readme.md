@@ -41,7 +41,7 @@ I’m all about **blending AI with real-world impact** — from **medical imagin
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shreyavj_05)  
 
 🏆 **GitHub Trophies**  
-![trophy](https://github-profile-trophy.vercel.app/?username=ShreyaVijaykumar&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyaVijaykumar&theme=tokyonight&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
