@@ -1,43 +1,56 @@
-# 👋 Hi, I'm Shreya Vijaykumar!
+# 🌌 Hey, I’m Shreya Vijaykumar!  
 
-🚀 **AI/ML Enthusiast | Ideathon Winner | Exploring AI for Healthcare, FinTech & Judiciary**  
+💡 **AI/ML | Ideathon Winner | Linux & System Enthusiast**  
 
-I am passionate about building **AI-driven solutions** that enhance **trust, efficiency, and decision-making**. My work spans **Machine Learning, Computer Vision, and AI for Social Good**, with a strong focus on **scalable real-world applications**.  
-
-## 🔬 Key Projects  
-- **[Public Pulse:](https://github.com/ShreyaVijaykumar/PublicPulse)** – AI model ensuring transparency and fairness in automated decisions.  
-- **AI for Governance & Security** – Researching AI accountability and fairness in high-impact systems.  
-- **Scalable AI Applications** –  ML models using **Python, TensorFlow, Flask/Django**.  
-
-## 🏆 Achievements  
-- **IEEE Ideathon Winner** – Recognized for AI-driven innovation.  
-- **International Exchange Delegate (Malaysia)** – Gained exposure to global tech ecosystems.  
-  
-
-## ⚡ Tech Stack  
-🔹 **Languages**: Python, Java, C++  
-🔹 **ML & AI**: TensorFlow, PyTorch, OpenCV, Scikit-Learn  
-🔹 **Databases**: MySQL, PostgreSQL, SQLite  
-🔹 **Frameworks**: Flask, Django    
-
-
-## 🌱 Currently Exploring  
-- AI for **Healthcare, Judiciary, and FinTech**  
-- **Federated Learning** and **Ethical AI**  
-- **Big Tech Career Pathways & Open Source Contributions**  
-
-
-## 📫 Let's Connect  
-🔹 **LinkedIn**: [Shreya Vijaykumar](https://www.linkedin.com/in/shreya-vijaykumar-1b5855289)  
-🔹 **LeetCode**: [My Profile](https://leetcode.com/u/shreyavj_05/)  
+I’m all about **blending AI with real-world impact** — from **medical imaging and federated learning** to **AI-driven judiciary apps** and **system-level OS tuning**. Whether it’s **training CNNs for explainability**, working at **Linux kernels**, or exploring **federated architectures**, I love building solutions that are **scalable, ethical, and future-ready**.  
 
 ---
 
-## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/shreyavj_05)
+## 🚀 Projects that Define Me  
+- ✨ **[Public Pulse](https://github.com/ShreyaVijaykumar/PublicPulse)** – AI-powered judiciary app for transparency & trust in automated decisions.  
+- 🧬 **[Face Anonymization](https://github.com/ShreyaVijaykumar/Face_anonymization)** – YOLOv8 model trained for detecting face which can be useful in blurring faces from datas like image which possess threat and privacy concerns of individuals. 
+- 🌐 **[Federated Learning with Adaptive Optimization](https://github.com/ShreyaVijaykumar/Enhancing-FL-Adaptive-Optimization)** – Personalized FL achieving **97.92% client accuracy**.    
 
 ---
-## 🏆Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyaVijaykumar&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏆 Wins & Highlights  
+- 🥇 **IEEE CommBattle Ideathon Winner (2024)** – Built AI-driven judiciary prototype.  
+- 🌏 **International Delegate (Malaysia)** – Tech diplomacy + global exposure.  
+- 🖥️ **C-DAC Intern** – Kernel tuning for **BOSS OS** to improve latency & CPU scheduling.   
 
+---
+
+## ⚡ Tech Stack (aka my toolkit)  
+🖥️ **Languages** → Python, C, C++, SQL, Bash  
+⚙️ **AI/ML** → PyTorch, TensorFlow, Scikit-learn, OpenCV, Captum, NumPy, Matplotlib  
+📂 **Systems & OS** → Linux (Kernel, Shell Scripting, Memory Mgmt), SQLite, Git  
+🌐 **Web & Fullstack** → Flask, Django, HTML/CSS/Bootstrap  
+
+---
+
+## 🌱 What I’m Exploring  
+- **Federated Learning** & adaptive AI for fairness  
+- **AI for Healthcare & Judiciary**  
+- **Linux kernel internals & secure OS design**  
+- **Open Source & HPC AI integration**  
+
+---
+
+## 🎯 Fun Add-ons  
+📊 **LeetCode Stats**  
+![LeetCode Stats](https://leetcard.jacoblin.cool/shreyavj_05)  
+
+🏆 **GitHub Trophies**  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyaVijaykumar&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+## 🌐 Let’s Connect  
+🔹 [LinkedIn](https://www.linkedin.com/in/shreya-vijaykumar-1b5855289)  
+🔹 [LeetCode](https://leetcode.com/u/shreyavj_05/)  
+🔹 [Medium](https://medium.com/@shreyavj.05)  
+🔹 [GitHub](https://github.com/ShreyaVijaykumar)  
+
+---
+
+✨ _“AI for impact. Systems for scale. Always learning, always shipping.”_  
