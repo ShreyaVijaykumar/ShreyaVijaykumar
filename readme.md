@@ -49,4 +49,4 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 
 ---
 
- _“Its all about one sip of coffee and tiny commits everyday.”_  
+ _“Its all about one nice sip of tea and a tiny commits everyday.”_  
