@@ -52,7 +52,7 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShreyaVijaykumar&theme=dark)](https://git.io/streak-stats)
+[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaVijaykumar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
  _“Its all about one nice sip of tea and a tiny commit everyday.”_  
