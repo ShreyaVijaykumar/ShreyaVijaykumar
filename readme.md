@@ -12,7 +12,7 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 -  **[PathMNIST-XAI: Explainable CNN for Medical Imaging](https://github.com/ShreyaVijaykumar/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging)** - Lightweight Explainable CNN for PathMNIST medical imaging, achieving 91%+ accuracy with Integrated Gradients, SQLite attribution storage, and scalable PyTorch deployment.
 -  **[Recipe Management Website](https://github.com/ShreyaVijaykumar/Recipe-Management-Website)** - A Flask + MySQL web app to create, manage, and share recipes with image uploads, allergen tracking, and vegetarian/non-vegetarian categorization.
 -  **[Public Pulse](https://github.com/ShreyaVijaykumar/PublicPulse)** – AI-powered judiciary app for transparency & trust in automated decisions.  
--  **[Face Anonymization](https://github.com/ShreyaVijaykumar/Face_anonymization)** – YOLOv8 model trained for detecting face which can be useful in blurring faces from datas like image which possess threat and privacy concerns of individuals.
+-  **[Face Anonymization](https://github.com/ShreyaVijaykumar/Face_anonymization)** – YOLOv8 model trained for detecting face which is useful for blurring faces in images to protect privacy, which possess threat and privacy concerns of individuals.
   
 ---
 
@@ -52,7 +52,11 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 
 ---
 
-[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaVijaykumar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShreyaVijaykumar&theme=dark)](https://git.io/streak-stats)  
+[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaVijaykumar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyaVijaykumar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
  _“Its all about one nice sip of tea and a tiny commit everyday.”_  
