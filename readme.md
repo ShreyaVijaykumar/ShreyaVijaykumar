@@ -52,7 +52,7 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyaVijaykumar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShreyaVijaykumar)](https://git.io/streak-stats)
 
 ---
  _“Its all about one nice sip of tea and a tiny commit everyday.”_  
