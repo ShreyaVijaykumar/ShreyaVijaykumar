@@ -11,7 +11,8 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 -  **[Federated Learning with Adaptive Optimization](https://github.com/ShreyaVijaykumar/Enhancing-FL-Adaptive-Optimization)** – Personalized FL achieving **97.92% client accuracy**.    
 -  **[PathMNIST-XAI: Explainable CNN for Medical Imaging](https://github.com/ShreyaVijaykumar/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging)** - Lightweight Explainable CNN for PathMNIST medical imaging, achieving 91%+ accuracy with Integrated Gradients, SQLite attribution storage, and scalable PyTorch deployment.
 -  **[Recipe Management Website](https://github.com/ShreyaVijaykumar/Recipe-Management-Website)** - A Flask + MySQL web app to create, manage, and share recipes with image uploads, allergen tracking, and vegetarian/non-vegetarian categorization.
--  **[Public Pulse](https://github.com/ShreyaVijaykumar/PublicPulse)** – AI-powered judiciary app for transparency & trust in automated decisions.  
+-  **[Public Pulse](https://github.com/ShreyaVijaykumar/PublicPulse)** – AI-powered judiciary app for transparency & trust in automated decisions.
+-  **[GoodLife Foundation – Visitor & Donation Tracker](https://github.com/ShreyaVijaykumar/GoodLife-Foundation-Admin-Portal-Visitor-Donation-Record-Keeper)** - GoodLife Foundation Admin Portal is a lightweight Flask + SQLite3 web app for small NGOs and orphanages to securely record visitor details and track donations in one place.
 -  **[Face Anonymization](https://github.com/ShreyaVijaykumar/Face_anonymization)** – YOLOv8 model trained for detecting face which is useful for blurring faces in images to protect privacy, which possess threat and privacy concerns of individuals.
   
 ---
