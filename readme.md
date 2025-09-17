@@ -16,6 +16,10 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
   
 ---
 
+## Tech Blogs
+- **[Stop Memorizing Loss Functions in ML - Here’s How to Actually Understand Them](https://medium.com/@shreyavj.05/stop-memorizing-loss-functions-in-ml-heres-how-to-actually-understand-them-26d6ea59f974)** - This article breaks down the most important loss functions in machine learning. Instead of dumping formulas, I’ll show you where each one belongs, a mnemonic to remember it, and insider commentary you won’t usually find in textbooks.
+- **[How Federated Learning Solves the Accuracy Gap in Heterogeneous Data](https://medium.com/@shreyavj.05/how-federated-learning-solves-the-accuracy-gap-in-heterogeneous-data-8739470447e0)** - I explored Federated Learning (FL) to address a common challenge: improving model performance across clients with heterogeneous data without sharing raw datasets.
+
 ##  Wins & Highlights  
 -  **IEEE CommBattle Ideathon Winner (2024)** – Built AI-driven judiciary prototype and won a crash prize.
 -  **C-DAC Intern** – Kernel tuning for **BOSS OS** to improve latency & CPU scheduling. 
@@ -52,9 +56,4 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 
 ---
 
-## 📊 GitHub Stats  
-
-[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaVijaykumar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
----
  _“Its all about one nice sip of tea and a tiny commit everyday.”_  
