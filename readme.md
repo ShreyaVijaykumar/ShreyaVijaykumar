@@ -40,8 +40,7 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 
 ##  What I’m Currently Exploring  
 - **Federated Learning** & adaptive AI for fairness  
-- **AI for Healthcare & Judiciary**  
-- **Linux kernel internals & secure OS design**  
+- **AI for Healthcare & Judiciary **  
 - **Open Source & HPC AI integration**  
 
 ---
