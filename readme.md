@@ -32,9 +32,8 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 
 ##  Tech Stack (aka my toolkit)  
  **Languages** → Python, C, C++, SQL, Bash  
- **AI/ML** → PyTorch, TensorFlow, Scikit-learn, OpenCV, Captum, NumPy, Matplotlib  
+ **AI/ML Lib** → PyTorch, TensorFlow, Scikit-learn, OpenCV, Captum, NumPy, Matplotlib, Keras, Pandas, SciPy, Seaborn, XGBoost
  **Systems & OS** → Linux (Kernel, Shell Scripting, Memory Mgmt), SQLite, Git  
- **Web & Fullstack** → Flask, Django, HTML/CSS/Bootstrap  
 
 ---
 
