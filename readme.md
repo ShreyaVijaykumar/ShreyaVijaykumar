@@ -1,7 +1,5 @@
 # Hey, I'm Shreya Vijaykumar!  
 
-**AI/ML | IEEE Ideathon Winner 2024 | Linux & System Enthusiast**  
-
 I’m all about **blending AI with real-world impact** from **medical imaging and federated learning** to **AI-driven judiciary apps** and **system-level OS tuning**. Whether it’s **training CNNs for explainability**, working at **Linux kernels**, or exploring **federated architectures**, I love building solutions that are **scalable, ethical, and future-ready**.  
 
 ---
