@@ -44,12 +44,6 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 
 ---
 
- **LeetCode Stats**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/shreyavj_05)  
-
-
----
-
 ##  Let’s Connect  
 🔹 [LinkedIn](https://www.linkedin.com/in/shreya-vijaykumar-1b5855289)  
 🔹 [LeetCode](https://leetcode.com/u/shreyavj_05/)  
