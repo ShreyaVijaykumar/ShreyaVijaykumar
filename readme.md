@@ -5,7 +5,7 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 ---
 
 ##  Projects 
-![](https://komarev.com/ghpvc/?ShreyaVijaykumar=ShreyaVijaykumar&color=blueviolet))
+![](https://komarev.com/ghpvc/?ShreyaVijaykumar=ShreyaVijaykumar&color=blueviolet)
 -  **[Adaptive Feedforward MLP Driven Anomaly Recognition Framework using the LSNM 2024 Dataset](https://github.com/ShreyaVijaykumar/Adaptive-Feedforward-MLP-Driven-Anomaly-Recognition-Framework-using-the-LSNM-2024-Dataset)** - This repository contains an optimized Feedforward Multi-Layer Perceptron (MLP)–based Intrusion Detection System (IDS) built using PyTorch and evaluated on the LSNM 2024 dataset, a modern large-scale benchmark for network anomaly detection.
 -  **[Federated Learning with Adaptive Optimization](https://github.com/ShreyaVijaykumar/Enhancing-FL-Adaptive-Optimization)** – Personalized FL achieving 97.92% client accuracy.
 -  **[PathMNIST-XAI: Explainable CNN for Medical Imaging](https://github.com/ShreyaVijaykumar/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging)** - Lightweight Explainable CNN for PathMNIST medical imaging, achieving 91%+ accuracy with Integrated Gradients, SQLite attribution storage, and scalable PyTorch deployment.
