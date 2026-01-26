@@ -26,20 +26,6 @@ I’m all about **blending AI with real-world impact** from **medical imaging an
 -  **IEEE CommBattle Ideathon Winner (2024)** – Built AI-driven judiciary prototype and won a crash prize.
 -  **C-DAC Intern** – Kernel tuning for **BOSS OS** to improve latency & CPU scheduling. 
 -  **International Delegate (Malaysia)** – Tech diplomacy + global exposure.  
-   
----
-
-##  Tech Stack (aka my toolkit)  
- **Languages** → Python, C, C++, SQL, Bash  
- **AI/ML Lib** → PyTorch, TensorFlow, Scikit-learn, OpenCV, Captum, NumPy, Matplotlib, Keras, Pandas, SciPy, Seaborn, XGBoost
- **Systems & OS** → Linux (Kernel, Shell Scripting, Memory Mgmt), SQLite, Git  
-
----
-
-##  What I’m Currently Exploring  
-- **Federated Learning** & adaptive AI for fairness  
-- **AI for Healthcare & Judiciary **  
-- **Open Source & HPC AI integration**  
 
 ---
 
