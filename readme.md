@@ -7,42 +7,31 @@ I enjoy building systems that are **interpretable, scalable, and deployment-awar
 
 ## 🚀 Projects  
 
-- **[DiffInsight](https://github.com/ShreyaVijaykumar/Diff-Insight)**  
-  Transforms raw git diffs into structured review reports with change intelligence, merge conflict detection, and churn tracking across versions.  
+- **[DiffInsight](https://github.com/ShreyaVijaykumar/Diff-Insight)** - Transforms raw git diffs into structured review reports with change intelligence, merge conflict detection, and churn tracking across versions.  
 
-- **[Adaptive Feedforward MLP (LSNM 2024 IDS)](https://github.com/ShreyaVijaykumar/Adaptive-Feedforward-MLP-Driven-Anomaly-Recognition-Framework-using-the-LSNM-2024-Dataset)**  
-  Optimized MLP-based intrusion detection system for large-scale network anomaly detection using PyTorch.  
+- **[Adaptive Feedforward MLP (LSNM 2024 IDS)](https://github.com/ShreyaVijaykumar/Adaptive-Feedforward-MLP-Driven-Anomaly-Recognition-Framework-using-the-LSNM-2024-Dataset)** - Optimized MLP-based intrusion detection system for large-scale network anomaly detection using PyTorch.  
 
-- **[Federated Learning with Adaptive Optimization](https://github.com/ShreyaVijaykumar/Enhancing-FL-Adaptive-Optimization)**  
-  Federated learning pipeline addressing non-IID data challenges and improving client-level generalization.  
+- **[Federated Learning with Adaptive Optimization](https://github.com/ShreyaVijaykumar/Enhancing-FL-Adaptive-Optimization)** - Federated learning pipeline addressing non-IID data challenges and improving client-level generalization.  
 
-- **[PathMNIST-XAI](https://github.com/ShreyaVijaykumar/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging)**  
-  Lightweight CNN with integrated explainability (Integrated Gradients) and attribution storage for medical imaging.  
+- **[PathMNIST-XAI](https://github.com/ShreyaVijaykumar/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging)** - Lightweight CNN with integrated explainability (Integrated Gradients) and attribution storage for medical imaging.  
 
-- **[Microsoft Security Incident Prediction Analysis](https://github.com/ShreyaVijaykumar/Performance-Analysis-of-models-using-Microsoft-Safety-Incident-Prediction)**  
-  Comparative evaluation of ML and DL models on large-scale security telemetry data (2M+ samples).  
+- **[Microsoft Security Incident Prediction Analysis](https://github.com/ShreyaVijaykumar/Performance-Analysis-of-models-using-Microsoft-Safety-Incident-Prediction)** - Comparative evaluation of ML and DL models on large-scale security telemetry data (2M+ samples).  
 
-- **[AgeWell Admin Portal](https://github.com/ShreyaVijaykumar/AgeWell-Admin-Portal)**  
-  Flask-based system for managing NGO records, including visitors, donations, health data, and events.  
+- **[AgeWell Admin Portal](https://github.com/ShreyaVijaykumar/AgeWell-Admin-Portal)** - Flask-based system for managing NGO records, including visitors, donations, health data, and events.  
 
-- **[Recipe Management Website](https://github.com/ShreyaVijaykumar/Recipe-Management-Website)**  
-  Full-stack Flask + MySQL app for recipe creation, categorization, and allergen tracking.  
+- **[Recipe Management Website](https://github.com/ShreyaVijaykumar/Recipe-Management-Website)** - Full-stack Flask + MySQL app for recipe creation, categorization, and allergen tracking.  
 
-- **[Public Pulse](https://github.com/ShreyaVijaykumar/PublicPulse)**  
-  AI-driven governance platform for trust scoring, sentiment analysis, and decision transparency.  
+- **[Public Pulse](https://github.com/ShreyaVijaykumar/PublicPulse)** - AI-driven governance platform for trust scoring, sentiment analysis, and decision transparency.  
 
-- **[Face Anonymization](https://github.com/ShreyaVijaykumar/Face_anonymization)**  
-  YOLOv8-based pipeline for real-time face detection and privacy-preserving anonymization.  
+- **[Face Anonymization](https://github.com/ShreyaVijaykumar/Face_anonymization)** - YOLOv8-based pipeline for real-time face detection and privacy-preserving anonymization.  
 
 ---
 
 ## ✍️ Technical Writing  
 
-- **[Stop Memorizing Loss Functions in ML](https://medium.com/@shreyavj.05/stop-memorizing-loss-functions-in-ml-heres-how-to-actually-understand-them-26d6ea59f974)**  
-  Conceptual breakdown of key ML loss functions with intuitive understanding and memory techniques.  
+- **[Stop Memorizing Loss Functions in ML](https://medium.com/@shreyavj.05/stop-memorizing-loss-functions-in-ml-heres-how-to-actually-understand-them-26d6ea59f974)** - Conceptual breakdown of key ML loss functions with intuitive understanding and memory techniques.  
 
-- **[Federated Learning & Accuracy Gap](https://medium.com/@shreyavj.05/how-federated-learning-solves-the-accuracy-gap-in-heterogeneous-data-8739470447e0)**  
-  Explains how federated learning improves performance across heterogeneous client datasets.  
+- **[Federated Learning & Accuracy Gap](https://medium.com/@shreyavj.05/how-federated-learning-solves-the-accuracy-gap-in-heterogeneous-data-8739470447e0)** - Explains how federated learning improves performance across heterogeneous client datasets.  
 
 ---
 
